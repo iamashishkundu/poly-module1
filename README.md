@@ -70,9 +70,8 @@ npx hardhat help
 * To understand about avalance go the the docs section by visiting: https://docs.avax.network/
 ## Authors
 
-* Name: Vibhansh Alok
-* MetacrafterID: RuffledZest (vibhanshalok@gmail.com)
-* Loom Video Link: https://www.loom.com/share/572d64b111474ab2bc8f71a377c14472
+* Name: Ashish Kundu
+
 
 ## License
 
